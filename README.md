@@ -10,6 +10,7 @@ Topics include:
 1. **basic portfolio**, factor evaluation, risk management: [here](./portfolio_risk.md)
 
 TBD:
+
 2. **option pricing** - clean up FINM 330 notes
 3. **time series** - BUSN 41910 notes, clean up from J Russell's stuff
 4. **Stat Inference** - note sheet briefly explaining what learned from the class
