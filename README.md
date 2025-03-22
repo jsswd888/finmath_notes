@@ -16,5 +16,11 @@ TBD:
 4. **Stat Inference** - note sheet briefly explaining what learned from the class
    1.  e.g., portion on MLE & OLS 
 
-if time permitted may also contain some notes taken for CFA.
+if time permitted may also contain some notes taken for CFA. Also may contain notes for latest semester's course on:
+
+- Credit Markets
+- FX
+- Numerical Methods for Option Pricing (to be included into 2)
+- Multivariate Stastical Analysis
+- Fixed Income
 
